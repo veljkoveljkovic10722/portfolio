@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+User-agent:*
+=======
+User-agent:*
+>>>>>>> ba05d5c (Poruka druga)
+Disallow:/admin/
